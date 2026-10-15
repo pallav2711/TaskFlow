@@ -1,4 +1,3 @@
-MERN Stack Developer — Practical Round Assignment
 Project: Task Management System with Authentication & Kanban Board
 Technology Stack: React, Node.js, Express.js, MongoDB
 Problem Statement
